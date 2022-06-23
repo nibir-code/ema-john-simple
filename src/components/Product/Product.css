@@ -13,8 +13,11 @@
       background-color: goldenrod;
       color: black;
       border-radius: 5px;
-      width: 120px;
+      width: 150px;
       height: 30px;
-      border-color:1px solid goldenrod;
+      border-color:1px solid lightgray;
       cursor: pointer;
+ }
+ .icons-color{
+     color: rgba(218, 165, 32, 0.973);
  }
